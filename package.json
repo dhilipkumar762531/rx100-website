@@ -1,0 +1,17 @@
+{
+  "name": "rx-scroll-animation",
+  "version": "1.0.0",
+  "description": "Smooth scroll animation using image sequence frames",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "canvas",
+    "scroll-animation",
+    "image-sequence"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
